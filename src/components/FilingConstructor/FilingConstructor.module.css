@@ -1,0 +1,12 @@
+.filling {
+  display: flex;
+  align-items: center;
+}
+
+.filling div {
+  width: 100%;
+}
+
+.filling img + span {
+  flex: 1;
+}
